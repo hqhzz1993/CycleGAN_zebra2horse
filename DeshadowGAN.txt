@@ -1,0 +1,6 @@
+CVPR 2019 DeshadowGAN
+
+This paper is about shadow removal using Cycle-GAN. What's more,
+it uses mask picture to guide generator.
+
+IT IS GOOD FOR ME. 
